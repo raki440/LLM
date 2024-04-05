@@ -1,4 +1,5 @@
 # LLM-Projects
-LLM-Projects POC![Uploading image.png…]()
-
-LLM RAG Architecture:
+What is LLM and how it's used for distributed training
+Types of LLM's
+RAG Method
+Advance RAG Method
