@@ -1,2 +1,4 @@
 # LLM-Projects
-LLM-Projects POC
+LLM-Projects POC![Uploading image.png…]()
+
+LLM RAG Architecture:
